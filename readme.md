@@ -1,5 +1,7 @@
 # Animal Emojis for Git Commit
 
+| emoji one | emoji two | emoji three |
+| --- | --- | ---|
 | :cat: `:cat:` | :dog: `:dog:` | :mouse: `:mouse:` |
 | :hamster: `:hamster:` | :rabbit: `:rabbit:` | :wolf: `:wolf:` |
 | :frog: `:frog:` | :tiger: `:tiger:` | :koala: `:koala:` |
@@ -11,7 +13,7 @@
 | :baby_chick: `:baby_chick:` | :hatched_chick: `:hatched_chick:` | :hatching_chick: `:hatching_chick:` |
 | :chicken: `:chicken:` | :penguin: `:penguin:` | :turtle: `:turtle:` |
 | :bug: `:bug:` | :honeybee: `:honeybee:` | :ant: `:ant:` |
-|   | :snail: `:snail:` | :octopus: `:octopus:` |
+|  :palm_tree: `:palm_tree:` | :snail: `:snail:` | :octopus: `:octopus:` |
 | :tropical_fish: `:tropical_fish:` | :fish: `:fish:` | :whale: `:whale:` |
 | :whale2: `:whale2:` | :dolphin: `:dolphin:` | :cow2: `:cow2:` |
 | :ram: `:ram:` | :rat: `:rat:` | :water_buffalo: `:water_buffalo:` |
@@ -21,4 +23,3 @@
 | :dragon_face: `:dragon_face:` | :blowfish: `:blowfish:` | :crocodile: `:crocodile:` |
 | :dromedary_camel: `:dromedary_camel:` | :leopard: `:leopard:` | :cat2: `:cat2:` |
 | :poodle: `:poodle:` | :paw_prints: `:paw_prints:` | :bouquet: `:bouquet:` |
-| :cherry_blossom: `:cherry_blossom:` | :tulip: `:tulip:` | :four_leaf_clover: `:four_leaf_clover:` |
